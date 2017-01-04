@@ -1,3 +1,6 @@
+#Language: Python 2.7.8
+
+
 # This function will find the time a bird flies at Vb km/h between a train going at Vt km/h
 # and a wall. The train and bird start at a distance D from the wall and go in the direction
 # of the wall. 
