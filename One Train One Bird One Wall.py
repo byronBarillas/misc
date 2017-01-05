@@ -5,7 +5,7 @@
 # and a wall. The train and bird start at a distance D from the wall and go in the direction
 # of the wall. 
 
-# This is a modified (though equivalent) version of problem of the "two trains one bird" problem. 
+# This is a modified version of problem of the "two trains one bird" problem. 
 
 
 #      Bird->>----------------------------------------|Wall
